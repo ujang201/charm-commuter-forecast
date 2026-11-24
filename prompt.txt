@@ -1,0 +1,1 @@
+Write one line of weather forecast, at most 140 characters, for a city that does not exist. Name the invented city, give it weather, and make a bored commuter smile on the way to work. The program outputs that single line as entry.txt.
